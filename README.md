@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Мой стек технологий
+
+img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=ffffff"/
+
 <!--
 **ivanov-matvey/ivanov-matvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
