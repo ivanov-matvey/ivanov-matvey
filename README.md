@@ -4,7 +4,7 @@
 
 ### Мой стек технологий
 
-<img src="https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff"> <img src="https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff"> <img src="https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff"> <img src="https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=ffffff"> <img src="https://img.shields.io/badge/django-161B22?style=for-the-badge&logo=django&logoColor=ffffff">
+<img src="https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff"> <img src="https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff"> <img src="https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff"> <img src="https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=ffffff"> <img src="https://img.shields.io/badge/django-161B22?style=for-the-badge&logo=django&logoColor=ffffff">
 <!--
 **ivanov-matvey/ivanov-matvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
