@@ -1,10 +1,6 @@
-### Hi there 👋
-
 ### Связь со мной
 
-[<img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=vk&logoColor=ffffff"/>](https://vk.com/matvenoid){:target="_blank"}
-<a href="http://vk.com/matvenoid" target="_blank"><img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=vk&logoColor=ffffff"></a>
-<a href="http://vk.com/matvenoid" target="_blank">VK</a>
+[<img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=vk&logoColor=ffffff">](http://vk.com/matvenoid) [<img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff">](https://t.me/matvenoid)
 
 <!--
 **ivanov-matvey/ivanov-matvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
