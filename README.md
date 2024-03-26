@@ -1,6 +1,6 @@
 ### Связь со мной
 
-[<img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=vk&logoColor=ffffff">](http://vk.com/matvenoid) [<img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff">](https://t.me/matvenoid)
+[<img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=vk&logoColor=ffffff">](http://vk.com/matvenoid) [<img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff">](https://t.me/matvenoid) [<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=maildotru&logoColor=ffffff">](matvey.ivanov.work@yandex.ru)
 
 ### Мой стек технологий
 
