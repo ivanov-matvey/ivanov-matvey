@@ -4,4 +4,4 @@
 
 ### Technologies
 
-![](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff) ![](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff) ![](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff) ![](https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff) ![](https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![](https://img.shields.io/badge/django-161B22?style=for-the-badge&logo=django&logoColor=ffffff)
+![](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff) ![](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff) ![](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff) ![](https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff) ![](https://img.shields.io/badge/postgressql-161B22?style=for-the-badge&logo=postgressql&logoColor=ffffff) ![](https://img.shields.io/badge/django-161B22?style=for-the-badge&logo=django&logoColor=ffffff)
