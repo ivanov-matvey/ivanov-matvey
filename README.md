@@ -6,7 +6,6 @@
 
 ![](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff)
 ![](https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=csharp&logoColor=ffffff)
-![](https://img.shields.io/badge/pascal-161B22?style=for-the-badge&logo=pascal&logoColor=ffffff)
 ![](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![](https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff)
 
