@@ -14,9 +14,9 @@
 ![Docker](https://img.shields.io/badge/docker-161B22?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 ### Web Technologies
+![React](https://img.shields.io/badge/react-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff)
-![React](https://img.shields.io/badge/react-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=ffffff)
