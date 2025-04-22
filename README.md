@@ -7,6 +7,7 @@
 
 ![Kotlin](https://img.shields.io/badge/kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/typescript-161B22?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-161B22?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
 ### Tools
