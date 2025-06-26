@@ -22,5 +22,6 @@
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-161B22?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/redis-161B22?style=for-the-badge&logo=redis&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/mysql-161B22?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MSSQL](https://img.shields.io/badge/mssql-161B22?style=for-the-badge&logo=mssql&logoColor=ffffff)
