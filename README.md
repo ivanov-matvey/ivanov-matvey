@@ -9,7 +9,7 @@
 <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-161B22?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/html-161B22?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/css-161B22?style=for-the-badge&logo=css3&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=ffffff)
 
 ### Technologies & Tools
 ![Git](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff)
