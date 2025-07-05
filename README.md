@@ -14,9 +14,8 @@
 ### Technologies & Tools
 ![Git](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/docker-161B22?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Docker Compose](https://img.shields.io/badge/docker-compose-161B22?style=for-the-badge&logo=docker-compose&logoColor=ffffff)
 ![gRPC](https://img.shields.io/badge/gRPC-161B22?style=for-the-badge&logo=grpc&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/jwt-161B22?style=for-the-badge&logo=jwt&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 
 ### Frameworks
 ![Ktor](https://img.shields.io/badge/Ktor-161B22?style=for-the-badge&logo=ktor&logoColor=ffffff)
