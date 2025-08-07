@@ -18,6 +18,7 @@
 ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 
 ### Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-161B22?style=for-the-badge&logo=springboot&logoColor=ffffff)
 ![Ktor](https://img.shields.io/badge/Ktor-161B22?style=for-the-badge&logo=ktor&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-161B22?style=for-the-badge&logo=react&logoColor=ffffff)
 
