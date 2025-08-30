@@ -14,9 +14,10 @@
 ### Technologies & Tools
 ![Git](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/docker-161B22?style=for-the-badge&logo=docker&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 <br/>
 ![gRPC](https://img.shields.io/badge/gRPC-161B22?style=for-the-badge&logo=grpc&logoColor=ffffff)
+![SMTP](https://img.shields.io/badge/SMTP-161B22?style=for-the-badge&logo=smtp&logoColor=ffffff)
 ![Yandex Cloud S3](https://img.shields.io/badge/yandex%20cloud%20s3-161B22?style=for-the-badge&logo=yandexcloud&logoColor=ffffff)
 
 ### Frameworks
