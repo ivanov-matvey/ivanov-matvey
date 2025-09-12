@@ -19,6 +19,8 @@
 ![gRPC](https://img.shields.io/badge/gRPC-161B22?style=for-the-badge&logo=grpc&logoColor=ffffff)
 ![SMTP](https://img.shields.io/badge/SMTP-161B22?style=for-the-badge&logo=smtp&logoColor=ffffff)
 ![Yandex Cloud S3](https://img.shields.io/badge/yandex%20cloud%20s3-161B22?style=for-the-badge&logo=yandexcloud&logoColor=ffffff)
+<br/>
+![Yandex GPT API](https://img.shields.io/badge/yandex%20gpt%20api-161B22?style=for-the-badge&logo=yandexcloud&logoColor=ffffff)
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-161B22?style=for-the-badge&logo=springboot&logoColor=ffffff)
