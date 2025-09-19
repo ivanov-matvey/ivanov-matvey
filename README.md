@@ -1,6 +1,7 @@
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/matvenoid)
 [![matvenoid@gmail.com](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:matvenoid@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=gitbook&logoColor=ffffff)]([https://t.me/matvenoid](https://storage.yandexcloud.net/resume-matvenoid/Resume.pdf))
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=ffffff)
