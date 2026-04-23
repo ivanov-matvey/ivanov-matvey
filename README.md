@@ -5,6 +5,8 @@
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-161B22?style=for-the-badge&logo=java&logoColor=ffffff)
+![Go](https://img.shields.io/badge/go-161B22?style=for-the-badge&logo=go&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-161B22?style=for-the-badge&logo=python&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/typescript-161B22?style=for-the-badge&logo=typescript&logoColor=ffffff)
 <br/>
